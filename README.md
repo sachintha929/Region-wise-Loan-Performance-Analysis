@@ -404,11 +404,9 @@ Region-wise-Loan-Performance-Dashboard/
 
 ---
 
-# 📷 Dashboard Preview
+## 📷 Dashboard Preview
 
-
-```markdown
-![Region-wise Loan Performance Dashboard](Images/dashboard_preview.png)
+![Region-wise Loan Performance Dashboard](dashboard_preview.png)
 ```
 
 ---
