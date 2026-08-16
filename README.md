@@ -394,10 +394,7 @@ Region-wise-Loan-Performance-Dashboard/
 │   └── Region-wise_Performance_Presentation.pptx
 │
 ├── Images/
-│   └── dashboard_preview.png
-│
-└── Documentation/
-    └── Project_Insights.pdf
+   └── dashboard_preview.png
 ```
 
 > File names and folders can be adjusted based on the actual files uploaded to the repository.
