@@ -20,8 +20,6 @@ The dashboard provides an interactive view of key loan performance indicators, i
 
 A **PowerPoint presentation** was also created to communicate the major findings and business insights from the dashboard.
 
-> **Note:** The analysis is based on aggregated loan-level information. No personally identifiable customer information should be included in the public repository.
-
 ---
 
 ## 🎯 Project Objectives
