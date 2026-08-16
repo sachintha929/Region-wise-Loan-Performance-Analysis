@@ -406,7 +406,6 @@ Region-wise-Loan-Performance-Dashboard/
 
 # 📷 Dashboard Preview
 
-Add a screenshot of the completed dashboard here:
 
 ```markdown
 ![Region-wise Loan Performance Dashboard](Images/dashboard_preview.png)
